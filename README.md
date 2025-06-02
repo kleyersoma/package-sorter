@@ -78,7 +78,6 @@ print(sort(150, 50, 50, 20))   # Output: "REJECTED"
 .
 ├── README.md           # This file
 ├── package_sorter.py   # Main implementation with tests
-└── requirements.txt    # Dependencies (if any)
 ```
 
 ## Solution Overview
